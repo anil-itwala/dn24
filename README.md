@@ -19,8 +19,9 @@ composer install
 npm install
 npm run dev 
 ```
+4. add env variable to .env which is shared by email
 
-4. Run laravel server
+5. Run laravel server
 
 ```sh
 php artisan serve
